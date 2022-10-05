@@ -1,0 +1,21 @@
+[
+    // Low - Tech Units
+    {
+        "name": "Melee",
+        "movementType": "Land",
+        "uniques": ["[-90]% Strength <vs [Gunpowder] units> <when attacking>", "[-50]% Strength <vs [Gunpowder] units> <when defending>"]
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land",
+        "uniques": ["[-50]% Strength <vs [Rifling] units> <when attacking>", "[-50]% Strength <vs [Rifling] units> <when defending>"]
+    },
+    {
+        "name": "Siege",
+        "movementType":"Land",
+        "uniques": ["[+100]% Strength <vs cities>", "[-95]% Strength <vs [Alone] units> <when attacking>", "[-60]% Strength <vs [Grouped] units> <when attacking>"]
+    },
+    {
+
+    }
+]

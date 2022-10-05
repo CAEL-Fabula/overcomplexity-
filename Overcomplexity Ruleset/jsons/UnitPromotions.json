@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Alone",
+        "uniques": ["Ignores terrain cost", "Can move after attacking", "Invisible to non-adjacent units", "[-98]% Strength <vs cities> <when attacking>", "May retreat before melee [25%]"],
+        "civilopediaText": "The advantages of being alone. You can do things quickly, and it's easier to hide when you need to."
+    },
+    {
+        "name": "Grouped",
+        "uniques": ["[+400]% Strength <vs [Alone] units>"],
+        "civilopediaText": "When you face a group of enemies who know what they're doing, don't try to be a hero, just run -- run as fast as you can."
+    }
+]
